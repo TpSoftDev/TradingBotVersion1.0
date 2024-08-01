@@ -1,0 +1,1 @@
+# TradingBotVersion1.0
